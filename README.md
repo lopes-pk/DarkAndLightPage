@@ -1,7 +1,7 @@
 
 # DarkAndLightPage
 
-#### Simple project consolidating the creation of dark mode | #### Simples projeto consolidando a criação de dark mode
+#### Simple project consolidating the creation of dark mode | Simples projeto consolidando a criação de dark mode
 
 
 
